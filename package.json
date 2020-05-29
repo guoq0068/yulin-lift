@@ -1,0 +1,20 @@
+{
+  "name": "yulin-lift",
+  "version": "1.0.0",
+  "description": "Yulin lift implemenatation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+
+  "dependencies": {
+    "socket.io": "~2.3.0",
+    "express": "~4.17.1",
+    "crc-32": "~1.2.0",
+    "qr-image": "~3.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
